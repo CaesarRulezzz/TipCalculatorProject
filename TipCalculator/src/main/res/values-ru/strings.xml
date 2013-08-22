@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Калькулятор чаевых</string>
+    <string name="action_settings">Параметры</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="billTextView">Общий счет</string>
+    <string name="editTextView"></string>
+    <string name="tenTextView">10%</string>
+    <string name="fifteenTextView">15%</string>
+    <string name="twentyTextView">20%</string>
+    <string name="tipTextView">Чаевые</string>
+    <string name="totalTextView">Всего</string>
+    <string name="customTextView">Размер чаевых</string>
+    <string name="customTipTextView">18%</string>
+    <string name="tipCustomTextView">Чаевые 2</string>
+    <string name="totalCustomTextView"></string>
+
+</resources>

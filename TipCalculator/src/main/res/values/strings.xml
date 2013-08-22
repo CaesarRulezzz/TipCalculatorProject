@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TipCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="billTextView">billTextView</string>
+    <string name="editTextView">editTextView</string>
+    <string name="tenTextView">tenTextView</string>
+    <string name="fifteenTextView">fifteenTextView</string>
+    <string name="twentyTextView">twentyTextView</string><string name="tipTextView">tipTextView</string><string name="totalTextView">totalTextView</string><string name="customTextView">customTextView</string><string name="customTipTextView">customTipTextView</string><string name="tipCustomTextView">tipCustomTextView</string><string name="totalCustomTextView">totalCustomTextView</string>
+
+</resources>
